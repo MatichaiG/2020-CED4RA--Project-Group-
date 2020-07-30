@@ -1,9 +1,13 @@
-# 2020-CED4RA--Project-Group-
+# 2020-CED4RA--Project-TAKOB-
 
-##Menber
+##Member
 
 - Mr.Maitree Narpoe
-- 6002041620101 Mr.Matichai Gosoongnoen
+- Mr.Matichai Gosoongnoen
+- Mrs.Suttita Thawitchaiyaporn
+- Mr.Rangsit  Nualin
+- Mrs.Sasipim Jitpukdee
+
 ##Reference
 
-<https://github.com/Maitree-Ballband/2020-CED4RA--Project-Group->
+<https://github.com/Maitree-Ballband/2020-CED4RA--Project-TAKOB->
